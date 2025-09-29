@@ -4,3 +4,12 @@ gradio
 pypdf
 openai
 openai-agents
+# ShopAdvisor dependencies
+fastapi
+uvicorn[standard]
+pandas
+faiss-cpu
+langchain
+langchain-community
+langchain-openai
+sentence-transformers
